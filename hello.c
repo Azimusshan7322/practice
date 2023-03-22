@@ -10,6 +10,6 @@ int main() {
     printf("answer  is :%d",a%b);
     return 0;
 }
-
+//hi
    
 
